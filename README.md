@@ -25,11 +25,15 @@ ECCO-GROUP/ECCO-v4-Python-Tutorial/master/ECCO-ACCESS/ecco_download.py
    Once you installed miniconda on your computer, create a fresh environment for the packages.
    This can be achieved with comments:
    (replace ENVNAME with any name you want for your environment)
+   
      conda create -n ENVNAME
 
    Once you have the environment, activate it and install all packages required.
+   
      conda activate ENVNAME
+   
      conda config --add channels conda-forge
+   
      conda install --channel=conda-forget numpy xarray xgcm xmitgcm pyresample trajan parcels
 
 3. Accessing ECCOv4r4 model output data
