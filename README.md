@@ -10,7 +10,7 @@ For more information about ECCO, please visit:
 For more information about Parcels, please visit:
     https://oceanparcels.org/
 
-
+/
 Step-bystep install and run guide:
 
 1. Environment setup
