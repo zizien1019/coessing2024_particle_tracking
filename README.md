@@ -11,8 +11,7 @@ For more information about Parcels, please visit:
     https://oceanparcels.org/
 
 
-Install and run guide:
-ECCO-GROUP/ECCO-v4-Python-Tutorial/master/ECCO-ACCESS/ecco_download.py
+Step-bystep install and run guide:
 
 1. Environment setup
    It is recommended to run the notebook with a clean conda environment to avoid messing up with other part of your computer.
