@@ -5,11 +5,9 @@ alongside with the Parcels (Probably A Really Computationally Efficient Lagrangi
 to perform 2-D and 3-D particle tracking simulation in the global ocean.
 
 For more information about ECCO, please visit:
-
     https://www.ecco-group.org/home.htm
 
 For more information about Parcels, please visit:
-
     https://oceanparcels.org/
 
 
@@ -26,15 +24,15 @@ ECCO-GROUP/ECCO-v4-Python-Tutorial/master/ECCO-ACCESS/ecco_download.py
    This can be achieved with comments:
    (replace ENVNAME with any name you want for your environment)
    
-     conda create -n ENVNAME
+         conda create -n ENVNAME
 
    Once you have the environment, activate it and install all packages required.
    
-     conda activate ENVNAME
+         conda activate ENVNAME
    
-     conda config --add channels conda-forge
+         conda config --add channels conda-forge
    
-     conda install --channel=conda-forget numpy xarray xgcm xmitgcm pyresample trajan parcels
+         conda install --channel=conda-forget numpy xarray xgcm xmitgcm pyresample trajan parcels
 
 3. Accessing ECCOv4r4 model output data
    One must have an active NASA Earth data account to access the ECCO data online.
