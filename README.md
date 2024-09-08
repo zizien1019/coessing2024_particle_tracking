@@ -42,7 +42,7 @@ Step-by-step install and run guide:
      https://www.earthdata.nasa.gov/
 
    With a NASA Earthdata account, you will have access to even more incredible data from the most avant-garde projects happening on this planet!
-   For example, CYGNSS satellite project, in which I myself is also included and working on the assess the distribution of plastic waste in ocean.
+   For example, CYGNSS satellite project, in which I myself is also included and working on to assess the distribution of plastic waste in ocean.
    
    One is also referred to the github repo of the ECCO team for more tools and examples on how to access and process the data:
    
