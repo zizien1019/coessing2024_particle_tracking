@@ -12,9 +12,10 @@ For more information about Parcels, please visit:
 
 /
 
-Step-bystep install and run guide:
+Step-by-step install and run guide:
 
 1. Environment setup
+   
    It is recommended to run the notebook with a clean conda environment to avoid messing up with other part of your computer.
    One can find miniconda distribution online:
    
@@ -35,6 +36,7 @@ Step-bystep install and run guide:
          conda install --channel=conda-forget numpy xarray xgcm xmitgcm pyresample trajan parcels
 
 3. Accessing ECCOv4r4 model output data
+   
    One must have an active NASA Earth data account to access the ECCO data online.
    
      https://www.earthdata.nasa.gov/
